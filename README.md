@@ -5,12 +5,12 @@
 客户端收到数据后，解压缩为 bmp 格式
 到此一个流程结束
 
-## 运行之前先把服务端和客户端的 ip 和端口都改为服务端对应的
+### 运行之前先把服务端和客户端的 ip 和端口都改为服务端对应的
 
-## 共两个部分 server 和 client
+### 共两个部分 server 和 client
 
-## 分别部署在两台 Linux 虚拟机上
+### 分别部署在两台 Linux 虚拟机上
 
-## 先运行 server 在运行 client
+### 先运行 server 在运行 client
 
-## 每个都写了 makefile 文件，直接执行 make 命令即可
+### 每个都写了 makefile 文件，直接执行 make 命令即可
